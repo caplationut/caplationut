@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @caplationut
-- 👀 I’m interested in learning programming and other cool new knowledge
+- 👀 I love the python programming language and I want to deepen the knowledge already acquired
 - 🌱 I’m currently learning python/django
-- 💞️ I’m looking to collaborate on python and/or django projects
-- 📫 How to reach me? Send email at caplationut@hotmail.com.
+- 💞️ I'm looking for collaborations in python and django area, also react and javascript
+- 📫 How to reach me? Send email at caplationut@gmail.com.
 
 <!---
 caplationut/caplationut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
